@@ -1,0 +1,17 @@
+{
+    "token": "ODA1OTU5MTk4OTQ0MDAyMDg5.YBid_w.eFeA71EkMYv69VImwVkh2zOz14Q",
+    "prefix": "~",
+    "whitelist_channel": "800145607074381844",
+    "debug": true,
+
+    "embed": {
+        "color": "#795BF0"
+    },
+
+    "server_count": {
+        "presence_enabled": true,
+        "server_stats": true,
+        "channel_id": "800145607074381844",
+        "set_name": "Players online:"
+    }
+}
