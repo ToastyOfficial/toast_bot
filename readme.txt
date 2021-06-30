@@ -12,4 +12,4 @@ steps on adding this resource (this is a fivem resource)
 ensure toast_bot
 add_ace resource.toast_bot command allow # allow all commands
 
-* manual copy of discord.js npm https://github.com/discordjs/discord.js
+* manual copy of discord.js npm # https://github.com/discordjs/discord.js #
