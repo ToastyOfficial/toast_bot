@@ -1,1 +1,1 @@
-npm i discord.js@11.6.4
+npm i discord.js@12.5.3
