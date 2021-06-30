@@ -8,5 +8,5 @@ version '2.0.0'
 
 server_scripts {
     'index.js',
-    './server/nat_s.lua',
+    './server/toast_s.lua',
 } 
