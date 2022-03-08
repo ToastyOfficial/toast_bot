@@ -1,4 +1,11 @@
-						THIS SCRIPT WAS MADE BY Toasty#0100
+   THIS SCRIPT IS OUTDATED AND WILL BE UPDATED SOON
+
+
+
+
+
+
+         THIS SCRIPT WAS MADE BY Toasty#0100
 
 steps on adding this resource (this is a fivem resource)
 
